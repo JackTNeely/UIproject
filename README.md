@@ -403,7 +403,10 @@ more. </p>
   
 <p class=MsoNormal style='line-height:normal'>&nbsp;</p>
 <p class=MsoNormal style='line-height:normal'>&nbsp;</p>
-  
+
+<p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
+										   style='font-size:32.0pt'>Up Next: <a href="https://github.com/JackTNeely/UIprototype" target="_blank">Check Out the Protoype!</a></span></p> 
+
 <p class=MsoNormal align=center style='text-align:center;line-height:normal'><span
 style='font-size:32.0pt'>Thank you.</span></p>  
 
